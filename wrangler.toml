@@ -1,0 +1,4 @@
+name = "youtube-transcription-api"
+main = "index.js"
+compatibility_date = "2026-01-12"
+type = "javascript"
